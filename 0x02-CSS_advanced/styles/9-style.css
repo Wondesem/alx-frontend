@@ -1,3 +1,4 @@
+/* Links are decorated by default, time to remove them */
 html {
     scroll-behavior: smooth;
     font-size: 62.5%;
